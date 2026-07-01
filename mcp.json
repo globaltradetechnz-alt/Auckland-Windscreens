@@ -1,0 +1,62 @@
+{
+  "name": "Greater Auckland Windscreen Specialists",
+  "description": "Windscreen and auto glass replacement across greater Auckland from Orewa to Pokeno. All makes and models, mobile fitting, same-day service, insurance claims handled.",
+  "website": "https://aucklandwindscreen.co.nz",
+  "contact": {
+    "phone": "0800-563-563",
+    "mobile": "021-757-985",
+    "email": "machglass@gmail.com",
+    "hours": "Monday-Friday, 8:00 AM - 5:00 PM"
+  },
+  "services": [
+    {
+      "name": "Windscreen Replacement",
+      "url": "https://aucklandwindscreen.co.nz/"
+    },
+    {
+      "name": "Side Glass",
+      "url": "https://aucklandwindscreen.co.nz/"
+    },
+    {
+      "name": "Back Glass",
+      "url": "https://aucklandwindscreen.co.nz/"
+    },
+    {
+      "name": "Insurance Claims",
+      "url": "https://aucklandwindscreen.co.nz/"
+    },
+    {
+      "name": "Mobile Fitting",
+      "url": "https://aucklandwindscreen.co.nz/"
+    }
+  ],
+  "specialty": "Windscreen replacement across greater Auckland",
+  "areas": [
+    "Auckland"
+  ],
+  "insurance_partners": [
+    "AA",
+    "AMI",
+    "AMP",
+    "ANZ",
+    "ASB",
+    "BNZ",
+    "Covi",
+    "FMG",
+    "IAG",
+    "Lumley",
+    "NZI",
+    "QBE",
+    "State",
+    "Vero",
+    "Zurich"
+  ],
+  "key_pages": {
+    "homepage": "https://aucklandwindscreen.co.nz/",
+    "contact": "https://aucklandwindscreen.co.nz/contact.html"
+  },
+  "sitemap": "https://aucklandwindscreen.co.nz/sitemap.xml",
+  "robots": "https://aucklandwindscreen.co.nz/robots.txt",
+  "llms": "https://aucklandwindscreen.co.nz/llms.txt",
+  "mcp": "https://aucklandwindscreen.co.nz/.well-known/mcp.json"
+}
